@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "status": 200,
+  "message": "Login successful",
+  "data": {
+    "id": "671399242b47f201538b6d32",
+    "name": "mohammed khaja",
+    "email": "khaja32@gmail.com",
+    "token": "3f3b5ea8c0ee488bbc39077ca96b205c612746103f104a5db06e5a23e5beae4c"
+  },
+  "id": "189",
+  "createdAt": "2024-10-20T12:13:25.807Z"
+}

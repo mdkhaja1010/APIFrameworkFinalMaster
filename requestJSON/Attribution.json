@@ -1,0 +1,31 @@
+{
+  "Portfolio": {
+    "PortfolioType": 0,
+    "Date": "2024-08-15",
+    "Name": "ACCTAPGE",
+    "PortfolioOption": 0,
+    "AssetType": 0
+  },
+  "Benchmark":{
+  "PortfolioType": 0,
+  "Date": "2024-08-15",
+  "Name": "msw60cas",
+  "PortfolioOption": 2,
+  "AssetType": 0
+},
+  "ModelName": "GR6",
+  "BeginDate": "2024-08-15",
+  "EndDate": "2024-09-15",
+  "LinkFrequency": 2,
+  "BaseCurrency": "eur",
+  "DisplayWeight": 1,
+  "DerivativeType": 0,
+  "Annualize": 0,
+  "CurrencyExp": 0,
+  "AllowShort": 0,
+  "HedgeValue": 0,
+  "CalculationOption": 0,
+  "RequestId": true,
+  "IsGlobal":true,
+  "callerID": "RestAssured"
+}
